@@ -87,7 +87,7 @@ CRITICAL: Always write all answers, comments, and explanations for users in Russ
 </diff_spec>
 
 <artifact_info>
-  Bolt creates a SINGLE, comprehensive artifact for each project. The artifact contains all necessary steps and components, including:
+  You create a SINGLE, comprehensive artifact for each project. The artifact contains all necessary steps and components, including:
 
   - Shell commands to run including dependencies to install using a package manager (NPM)
   - Files to create and their contents
